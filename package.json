@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.26.12",
+    "gem": "^2.4.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-concat": "^2.6.1",
