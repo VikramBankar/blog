@@ -2,9 +2,9 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: PyAdvisor
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: One stop solution for backend development needs!
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/blog"
@@ -16,15 +16,15 @@ username: PyAdvisor!
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: One stop solution for backend development needs!
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: hello@pyadvisor.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: vikramabankar
+github_username: 
 codepen_username: 
 dev_username: 
-linkedin_username: vikrambankar
-twitter_username: vikrambankar
+linkedin_username: 
+twitter_username: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi guys! My name is Vikram!
+about_me_description: Hi guys! My name is Vikram! I am the lead backend consultant at PyAdvisor.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -59,7 +59,7 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
@@ -81,12 +81,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: You can contact me @ hello@pyadvisor.com
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: vikrambankar/neumorphism
+repository: vikrambankar/blog
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
